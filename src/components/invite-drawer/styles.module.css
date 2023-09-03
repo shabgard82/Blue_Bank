@@ -1,0 +1,22 @@
+.all{
+  padding: 0px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 65vh;  
+}
+
+.img1{
+  width: 90px;
+  height: 120px;
+}
+
+.img2{
+  width: 90px;
+  height: 120px;
+  margin-left: 20px;
+}
+.img3{
+ height: 40px;
+ width: 180px;
+}

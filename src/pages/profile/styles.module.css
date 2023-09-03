@@ -1,0 +1,25 @@
+.all{
+  padding: 0px 15px;
+  background-color: #f1f5f6;
+}
+
+.img3{
+  width: 200px;
+  height: 80px;
+}
+
+.tabs{
+  z-index: 4;
+}
+.img{
+  padding:10px 10px;
+
+}
+.img1{
+  width: 40px;
+  height: 40px;
+}
+.part{
+  height: 600px;
+  overflow: scroll;
+}
